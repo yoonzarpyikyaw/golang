@@ -1,16 +1,3 @@
-
-
----
-title: primitves  
-tags:
-  - "#programming"
-  - "#goglang"
-  - "#primitves"
-author:
-  - yzpk  
-  - ai  
-description:
----
 ```golang
 package main
 
